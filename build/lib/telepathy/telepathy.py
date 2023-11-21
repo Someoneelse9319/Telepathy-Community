@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+@Sophia0g
 """Telepathy cli interface:
     An OSINT toolkit for investigating Telegram chats.
 """
