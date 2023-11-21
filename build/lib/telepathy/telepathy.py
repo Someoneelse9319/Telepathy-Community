@@ -1739,5 +1739,5 @@ def cli(
     with client:
         client.loop.run_until_complete(main())
 
-if __name__ == "__main__":
+if __name__ == "__@Sophia0g__":
     cli()
