@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-@Sophia0g
+
 """Telepathy cli interface:
     An OSINT toolkit for investigating Telegram chats.
 """
@@ -1739,5 +1739,5 @@ def cli(
     with client:
         client.loop.run_until_complete(main())
 
-if __name__ == "__@Sophia0g__":
+if __name__ == "__main__":
     cli()
